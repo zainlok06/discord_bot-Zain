@@ -1,1 +1,1 @@
-# discord_bot-Zain
+Praw is a python module that allows you to go to reddit and pull memes from the submissions, if you were wondering. For somereason, async def meme is not working and I dont really know why. Also, the ship command isn't working.
