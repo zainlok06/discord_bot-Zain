@@ -2,7 +2,7 @@ import discord
 import random
 from discord.ext import commands
 import praw
-TOKEN= "ODExNDM3MjI2NzEzOTM5OTg4.YCyLzg.sEJN2TrKBj8__bWsYzwGakJOszk"
+TOKEN= #TOKEN
 
 
 intents = discord.Intents(messages=True, members=True)
